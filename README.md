@@ -2,9 +2,9 @@
 
 使用 Laravel 及 Tailwind CSS來製作 TODO LIST
 
-- 主要的 HTML 格式請參考 resources\views 資料夾內的 welcome.blade.php
-- Controller 請參考 app\Http\Controllers 資料夾內的 TodoController.php
-- 用 get, post, patch, delete 四種方法完成這個 TODO LIST ，相關的路由請參考 routes 資料夾內的 web.php
+- 主要的 HTML 格式請參考 resources\views 資料夾內的 [welcome.blade.php](https://github.com/yichenkung/laraveltodo/blob/main/resources/views/welcome.blade.php)
+- Controller 請參考 app\Http\Controllers 資料夾內的 [TodoController.php](https://github.com/yichenkung/laraveltodo/blob/main/app/Http/Controllers/TodoController.php)
+- 用 get, post, patch, delete 四種方法完成這個 TODO LIST ，相關的路由請參考 routes 資料夾內的 [web.php](https://github.com/yichenkung/laraveltodo/blob/main/routes/web.php)
 
 ### 新增
 - 輸入二個欄位並點擊 Add 按鈕後，即可新增至下方代辦事項列。
